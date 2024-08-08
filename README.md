@@ -1,4 +1,4 @@
-# leaflet-challenge
+# Leaflet Challenge
 
 # Background
 Background
